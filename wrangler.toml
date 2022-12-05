@@ -1,0 +1,10 @@
+name = "link-shortener"
+compatibility_date = "2022-12-03"
+node_compat = false
+
+kv_namespaces = [
+    { binding = "URLS", id = "a3e6eb931b8b420c9738fe37496ec0f2", preview_id = "b5d73131ccba49d38453b4c94128be27" }
+]
+
+[vars]
+key = "${key}"
